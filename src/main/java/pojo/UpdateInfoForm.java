@@ -36,8 +36,4 @@ public class UpdateInfoForm {
         this.name = name;
     }
 
-    public UpdateInfoForm() {}
-
-
-
 }
